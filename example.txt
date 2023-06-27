@@ -1,2 +1,3 @@
 Hello world
 new commit for example
+Good bye!
